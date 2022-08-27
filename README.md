@@ -15,7 +15,9 @@
 
 - 💬 Ask me about **Java, Kotlin, Spring, Spring Boot, Hibernate**
 
-<h3 align="left">Connect with me:junaid.khan4444@hotmail.com</h3>
+- 📫 How to reach me **junaid.khan4444@hotmail.com**
+
+
 <p align="left">
 </p>
 

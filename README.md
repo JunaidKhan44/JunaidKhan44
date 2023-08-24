@@ -1,4 +1,4 @@
-
+![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 ![new](https://github.com/JunaidKhan44/JunaidKhan44/assets/80524662/b3c33868-3cfe-4aaf-aee1-829adf4de9b1)
 align="center">Hi 👋, I'm Junaid Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>

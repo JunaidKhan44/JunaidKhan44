@@ -12,7 +12,7 @@ align="center">Hi 👋, I'm Junaid Khan</h1>
 
 - 🔭 I’m currently working on **Tax ERP**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ML/DL**
 
 - 💬 Ask me about **Java, Kotlin, Spring, Spring Boot, Hibernate**
 

@@ -8,13 +8,13 @@ align="center">Hi 👋, I'm Junaid Khan</h1>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tax ERP's and Open Source Project : Lokahi by OpenNMS Group**
+- 🔭 I’m currently working on **Tax ERP's and Open Source Project : Lokahi by OpenNMS Group.**
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **ML/DL.**
 
-- 💬 Ask me about **Java, Kotlin, Spring, Spring Boot, Hibernate**
+- 💬 Ask me about **Java, Kotlin, Spring, Spring Boot, Hibernate.**
 
-- 📫 How to reach me **junaid.khan4444@hotmail.com**
+- 📫 How to reach me **junaid.khan4444@hotmail.com**.
 
 
 <p align="left">
